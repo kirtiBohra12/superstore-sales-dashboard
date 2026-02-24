@@ -4,6 +4,9 @@ A Power BI dashboard to analyze Super Store sales performance across regions, pr
 
 ---
 
+## Dashboard Preview
+![Superstore Dashboard](https://raw.githubusercontent.com/kirtiBohra12/superstore-sales-dashboard/main/Superstore-sales-DB.png)
+
 ## 📊 Features
 - Total Sales, Customers, Quantity & Avg Delivery KPIs
 - Sales by Region, Segment, Category & Sub-Category
