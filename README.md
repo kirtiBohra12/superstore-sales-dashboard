@@ -20,7 +20,6 @@ A Power BI dashboard to analyze Super Store sales performance across regions, pr
 ## 🧰 Tools Used
 - Power BI Desktop  
 - Power Query  
-- DAX  
 - Microsoft Bing Maps  
 
 ---
